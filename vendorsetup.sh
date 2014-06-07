@@ -47,6 +47,7 @@ ZOMG_ITS_A_COMBO_COMBO()
     toro \
     p700 \
     toroplus \
+    vigor \
     v500 \
     vs980 \
     yuga;
